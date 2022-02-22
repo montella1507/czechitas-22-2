@@ -1,1 +1,3 @@
-import "./promenne/ukol1.js";
+let jmeno  = prompt("Jak se jmenuješ?");
+
+console.log("Jmenuješ se:" + jmeno);
